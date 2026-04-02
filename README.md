@@ -1,4 +1,7 @@
 # Lid-Driven-Cavity
+
+![Pressure Velocity Streamplot](reports/pressure_velocity_streamplot.png)
+
 Implementaton of lid driven cavity fluid simulation in python/numpy
 
 The whole code for the simulation is in the Jupyter Notebook `lid_driven_cavity.ipynb`
